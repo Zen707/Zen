@@ -18,7 +18,7 @@
         <circle cx="250" cy="125" r="125" fill="#FFFFFF" />
       </clipPath>
     </defs>
-    <image width="500" height="250" xlink:href="images/707.jpg" clip-path="url(#circleView)" />
+    <image width="500" height="250" <a> href="707.jpg"</a> clip-path="url(#circleView)" />
 
   </svg>
   <h1>Zen</h1>
